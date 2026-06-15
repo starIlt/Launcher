@@ -1,1 +1,0 @@
-FileSystem::UserHomePath()+FileSystem::PathDelimiter()+"Appdata"+FileSystem::PathDelimiter()+"Local"+FileSystem::PathDelimiter()+"Programs"+FileSystem::PathDelimiter()+"crazy_32mobile_32cats"+FileSystem::PathDelimiter()+"Crazy Mobile Cats.exe"
